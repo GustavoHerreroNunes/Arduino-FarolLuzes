@@ -1,3 +1,8 @@
+/*Este simples código visa controlar um sistema de luzes
+* de rua de acordo com um portenciometro e um sistema 
+* automatico de farois de rua
+*/
+
 int Luz = 0;//declarando a variavel inteira Luz
 
 void setup(){ //durante os comandos abaixo estou definindo o que cada entrada será, se Input(Entrada de dados), ou Output(Saída de dados) 
